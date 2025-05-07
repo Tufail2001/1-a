@@ -6,10 +6,10 @@ Assignment Level 1:
 2. Crewai flows implementation of design patterns and litellm
 3. Crews, agents, tasks in CrewAI
 4. knowledge, RAG in crewai
-5. Function calling in crewai
+5. Function calling in CrewAI
 6. Memory in crewai
 7. MCP (model context protocol) in depth
-8. MCP integration in crewai with crews, agents, tasks.
+8. MCP integration in CrewAI with crews, agents, tasks.
 9. MCP integration with litellm
 10. Stripe agentic payments
 11. Crewai default deployment Payment Alternatives
